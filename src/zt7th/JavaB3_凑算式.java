@@ -1,6 +1,6 @@
 package zt7th;
 
-public class JavaB3 {
+public class JavaB3_¥’À„ Ω {
 	static int count;
 	public static void main(String[] args) {
 		for(double A = 1; A<=9; A++){

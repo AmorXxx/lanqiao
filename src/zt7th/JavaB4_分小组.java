@@ -1,6 +1,6 @@
 package zt7th;
 
-public class JavaB4 {
+public class JavaB4_·ÖÐ¡×é {
 	public static String remain(int[] a) {
 		String s = "";
 		for (int i = 0; i < a.length; i++) {

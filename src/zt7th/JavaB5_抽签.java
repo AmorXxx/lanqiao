@@ -1,6 +1,6 @@
 package zt7th;
 
-public class JavaB5 {
+public class JavaB5_≥È«© {
 	public static void f(int[] a, int k, int n, String s)
 	{
 		if(k==a.length){ 

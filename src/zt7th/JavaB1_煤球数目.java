@@ -1,6 +1,6 @@
 package zt7th;
 
-public class JavaB1 {
+public class JavaB1_ÃºÇòÊıÄ¿ {
 
 	public static void main(String[] args) {
 		int[] a = new int[100];

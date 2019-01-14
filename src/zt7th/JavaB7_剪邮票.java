@@ -4,7 +4,7 @@ package zt7th;
  */
 import java.util.HashSet;  
 
-public class JavaB7_1{  
+public class JavaB7_¼ôÓÊÆ±{  
     public static int count = 0;    
     public static int [] a = new int[5];    
     public static HashSet<String> hashset = new HashSet<String>();  
